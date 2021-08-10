@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628638346285" clover="3.2.0">
+  <project timestamp="1628638346285" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="10" coveredelements="10" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
+    <file name="Card.js" path="/Users/Ragglesoft/Desktop/Rithm/week8/Week8-day2/react-state-carousel-coins/carousel/src/Card.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="18" count="9" type="stmt"/>
+    </file>
+    <file name="Carousel.js" path="/Users/Ragglesoft/Desktop/Rithm/week8/Week8-day2/react-state-carousel-coins/carousel/src/Carousel.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="6" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="29" count="6" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

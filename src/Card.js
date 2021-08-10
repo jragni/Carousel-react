@@ -1,6 +1,19 @@
 import React from "react";
 import "./Card.css";
 
+/**Card
+ *
+ * Props:
+ * - src
+ * - caption
+ * - currNum
+ * - totalNum
+ *
+ * State:
+ *    None
+ *
+ * Card -> Carousel
+ */
 function Card(props) {
   return (
     <div className="Card">
